@@ -1,1 +1,2 @@
-Isso é apenas um teste no github
+Isso eh apenas um teste no github.
+Editado.
